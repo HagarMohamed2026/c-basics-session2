@@ -1,0 +1,16 @@
+C:\Users\MEDIA PRO\Downloads\Assignments\Ass1\bin\Debug\net10.0\Ass1.exe
+C:\Users\MEDIA PRO\Downloads\Assignments\Ass1\bin\Debug\net10.0\Ass1.deps.json
+C:\Users\MEDIA PRO\Downloads\Assignments\Ass1\bin\Debug\net10.0\Ass1.runtimeconfig.json
+C:\Users\MEDIA PRO\Downloads\Assignments\Ass1\bin\Debug\net10.0\Ass1.runtimeconfig.dev.json
+C:\Users\MEDIA PRO\Downloads\Assignments\Ass1\bin\Debug\net10.0\Ass1.dll
+C:\Users\MEDIA PRO\Downloads\Assignments\Ass1\bin\Debug\net10.0\Ass1.pdb
+C:\Users\MEDIA PRO\Downloads\Assignments\Ass1\obj\Debug\net10.0\Ass1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MEDIA PRO\Downloads\Assignments\Ass1\obj\Debug\net10.0\Ass1.AssemblyInfoInputs.cache
+C:\Users\MEDIA PRO\Downloads\Assignments\Ass1\obj\Debug\net10.0\Ass1.AssemblyInfo.cs
+C:\Users\MEDIA PRO\Downloads\Assignments\Ass1\obj\Debug\net10.0\Ass1.csproj.CoreCompileInputs.cache
+C:\Users\MEDIA PRO\Downloads\Assignments\Ass1\obj\Debug\net10.0\Ass1.dll
+C:\Users\MEDIA PRO\Downloads\Assignments\Ass1\obj\Debug\net10.0\refint\Ass1.dll
+C:\Users\MEDIA PRO\Downloads\Assignments\Ass1\obj\Debug\net10.0\Ass1.pdb
+C:\Users\MEDIA PRO\Downloads\Assignments\Ass1\obj\Debug\net10.0\Ass1.genruntimeconfig.cache
+C:\Users\MEDIA PRO\Downloads\Assignments\Ass1\obj\Debug\net10.0\ref\Ass1.dll
+C:\Users\MEDIA PRO\Downloads\Assignments\Ass1\obj\Debug\net10.0\Ass1.csproj.Up2Date
